@@ -1,4 +1,4 @@
-word_list=["apart","apartment","apple", "auto","available", 'average','avoid','award', 'bag','bake','balance','ball','ban','band','bank','bar','barely','barrel',
+word_list=["apart", "apartment","apple", "auto","available", 'average','avoid','award', 'bag','bake','balance','ball','ban','band','bank','bar','barely','barrel',
            'barrier','base','birthday', "body",'bottom','boundary','bowl','box','boy','boyfriend','brain','branch','brand','bread','break',
            'breakfast','capable','capacity','capital','captain','capture','car','carbon','card','care','career','careful','carefully','carrier',
            'carry','case','cash','cast','cat','catch','category','cheese','chef','chemical','chest','chicken','despite','destroy','destruction',

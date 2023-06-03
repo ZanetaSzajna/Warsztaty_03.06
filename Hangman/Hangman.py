@@ -1,6 +1,4 @@
 import random
-import colorsys
-from colorsys import r
 from list_words import word_list
 
 def get_word():
