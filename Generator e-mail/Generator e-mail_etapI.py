@@ -10,10 +10,6 @@ list_last_name=list(last_name.split())
 list_tasks=list(missing_tasks.split())
 list_grade=list(grade.split())
 
-print(list_name)
-print(list_tasks)
-print(list_last_name)
-print(list_grade)
 
 
 for i in range(len(list_name)):
